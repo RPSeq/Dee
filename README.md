@@ -1,2 +1,2 @@
 # Dee
-Learning the D.
+Learning D programming language.
